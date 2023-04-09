@@ -345,7 +345,7 @@ button {
     bottom: 0;
 }
 .box9 {
-    width: 985px;
+    width: 1200px;
     height: 2px;
     margin-top: 250px;
     border: 1px solid #858584;
@@ -355,7 +355,6 @@ button {
     position: absolute;
 }
 .p2 {
-    margin-top: 270px;
     color: #CCC;
     font-family: FF1;
     font-weight: 400;
